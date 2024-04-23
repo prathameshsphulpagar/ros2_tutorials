@@ -18,3 +18,13 @@ cd ros2_ws/src
 ```
 ros2 pkg create --build-type ament_cmake <package_name>
 ``` 
+
+4) To delete some files through terminal
+'''
+rm -r include/ src/
+'''
+
+5) To only run the perticular pakage not the other pakages
+```
+colcon build --packages-select my_robot_interfaces
+```
