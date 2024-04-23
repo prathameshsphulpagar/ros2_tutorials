@@ -26,5 +26,11 @@ rm -r include/ src/
 
 5) To only run the perticular pakage not the other pakages
 ```
-colcon build --packages-select my_robot_interfaces
+colcon build --packages-select pakage_name
+```
+
+6) Create the pakage having dependency on other pakages
+```
+ros2 pkg create new_pakage_name --build-type ament_cmake --dependencies rclcpp having_dependancy_pakage_name
+
 ```
