@@ -14,7 +14,11 @@ public:
     void send_goal(int target_number,double period)
     {
          // send the value to the client node.
+        count_until_client_->wait_for_action_server();
 
+        auto goal = Countntil::Goal();
+        goal.target_number = target_number;
+        goal.period = period;
     }
 private:
     rclcpp_action::Client<CountUntil>::SharedPtr count_until_client_;
