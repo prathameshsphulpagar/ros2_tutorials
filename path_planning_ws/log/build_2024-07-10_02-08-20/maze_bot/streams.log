@@ -1,0 +1,40 @@
+[1.398s] Invoking command in '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/src/maze_bot': PYTHONPATH=/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/prefix_override:/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build install --record /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data
+[1.780s] running egg_info
+[1.780s] creating ../../build/maze_bot/maze_bot.egg-info
+[1.805s] writing ../../build/maze_bot/maze_bot.egg-info/PKG-INFO
+[1.806s] writing dependency_links to ../../build/maze_bot/maze_bot.egg-info/dependency_links.txt
+[1.806s] writing requirements to ../../build/maze_bot/maze_bot.egg-info/requires.txt
+[1.806s] writing top-level names to ../../build/maze_bot/maze_bot.egg-info/top_level.txt
+[1.993s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[2.050s] reading manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[2.051s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[2.051s] running build
+[2.052s] running build_py
+[2.052s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build
+[2.052s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build/lib
+[2.052s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[2.052s] copying maze_bot/__init__.py -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[2.052s] running install
+[2.060s] running install_lib
+[2.086s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot
+[2.086s] copying /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build/lib/maze_bot/__init__.py -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot
+[2.087s] byte-compiling /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot/__init__.py to __init__.cpython-310.pyc
+[2.087s] running install_data
+[2.087s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index
+[2.087s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index/resource_index
+[2.088s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages
+[2.088s] copying resource/maze_bot -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages
+[2.088s] copying package.xml -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot
+[2.088s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/urdf
+[2.088s] copying urdf/maze_bot.urdf -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/urdf
+[2.088s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/meshes
+[2.089s] copying meshes/wheel_r.stl -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/meshes
+[2.089s] copying meshes/front_caster.stl -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/meshes
+[2.089s] copying meshes/base_link.stl -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/meshes
+[2.090s] copying meshes/wheel_l.stl -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/meshes
+[2.090s] creating /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch
+[2.090s] running install_egg_info
+[2.117s] Copying ../../build/maze_bot/maze_bot.egg-info to /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info
+[2.118s] running install_scripts
+[2.180s] writing list of installed files to '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log'
+[2.221s] Invoked command in '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/src/maze_bot' returned '0': PYTHONPATH=/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/prefix_override:/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build install --record /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data

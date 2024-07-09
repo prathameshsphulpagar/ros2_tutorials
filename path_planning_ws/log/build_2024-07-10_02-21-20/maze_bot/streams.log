@@ -1,0 +1,24 @@
+[1.245s] Invoking command in '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/src/maze_bot': PYTHONPATH=/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/prefix_override:/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build install --record /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data
+[1.639s] running egg_info
+[1.668s] writing ../../build/maze_bot/maze_bot.egg-info/PKG-INFO
+[1.668s] writing dependency_links to ../../build/maze_bot/maze_bot.egg-info/dependency_links.txt
+[1.669s] writing requirements to ../../build/maze_bot/maze_bot.egg-info/requires.txt
+[1.669s] writing top-level names to ../../build/maze_bot/maze_bot.egg-info/top_level.txt
+[1.891s] reading manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[1.893s] writing manifest file '../../build/maze_bot/maze_bot.egg-info/SOURCES.txt'
+[1.893s] running build
+[1.893s] running build_py
+[1.893s] copying maze_bot/__init__.py -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build/lib/maze_bot
+[1.894s] running install
+[1.901s] running install_lib
+[1.927s] running install_data
+[1.927s] copying resource/maze_bot -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages
+[1.927s] copying package.xml -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot
+[1.928s] copying launch/rviz.launch.py -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch
+[1.928s] copying urdf/maze_bot.urdf -> /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/urdf
+[1.929s] running install_egg_info
+[1.961s] removing '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.961s] Copying ../../build/maze_bot/maze_bot.egg-info to /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot-0.0.0-py3.10.egg-info
+[1.962s] running install_scripts
+[2.023s] writing list of installed files to '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log'
+[2.069s] Invoked command in '/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/src/maze_bot' returned '0': PYTHONPATH=/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/prefix_override:/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/maze_bot build --build-base /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/build install --record /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/build/maze_bot/install.log --single-version-externally-managed install_data
