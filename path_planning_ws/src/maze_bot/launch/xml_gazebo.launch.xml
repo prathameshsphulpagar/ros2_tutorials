@@ -1,0 +1,17 @@
+<launch>
+    <param name="robot_description" command="cat $(find maze_bot)/urdf/maze_bot.urdf"/>
+
+    <include file="$(find gazebo_ros)/launch/gazebo.launch.py">
+        <arg name="verbose" value="true"/>
+        <arg name="world" value="worlds/empty.world"/>
+    </include>
+
+    <node pkg="gazebo_ros" exec="spawn_entity.py" name="spawn_entity" output="screen" args="-entity maze_bot -b -file $(arg urdf_file)">
+        <param name="robot_description" command="cat $(find maze_bot)/urdf/maze_bot.urdf"/>
+    </node>
+
+    <node pkg="robot_state_publisher" exec="robot_state_publisher" name="robot_state_publisher" output="screen">
+        <param name="robot_description" command="cat $(find maze_bot)/urdf/maze_bot.urdf"/>
+    </node>
+</launch>
+
