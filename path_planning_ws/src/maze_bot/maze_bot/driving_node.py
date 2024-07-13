@@ -16,7 +16,8 @@ class MinimalPublisher(Node):
     def timer_callback(self):
         # this is mesage call back where you are creating the type
         msg = Twist() 
-        msg.linear.x=0.5
+        msg.linear.x=0.2
+        msg.angular.z=0.6
         self.publisher_.publish(msg)
 
 
