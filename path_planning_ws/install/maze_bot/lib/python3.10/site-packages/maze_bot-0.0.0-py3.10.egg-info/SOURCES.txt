@@ -12,6 +12,7 @@ launch/gazebo.launch.py
 launch/rviz.launch.py
 launch/xml_gazebo.launch.xml
 maze_bot/__init__.py
+maze_bot/driving_node.py
 meshes/base_link.stl
 meshes/front_caster.stl
 meshes/wheel_l.stl
