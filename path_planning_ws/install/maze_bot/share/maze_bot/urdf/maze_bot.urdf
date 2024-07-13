@@ -189,7 +189,7 @@ Thats why we use xacros
         </sensor>
         <material>Gazebo/Blue</material>
       </gazebo>
-
+-->
 
 
 
@@ -210,7 +210,7 @@ Thats why we use xacros
         <robotBaseFrame>base</robotBaseFrame>
   
       </plugin>
-    </gazebo> -->
+    </gazebo> 
 
 
   <gazebo reference="base">
