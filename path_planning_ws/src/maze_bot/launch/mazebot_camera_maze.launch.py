@@ -8,7 +8,7 @@ def generate_launch_description():
     pkgPath = get_package_share_directory('maze_bot')
     urdfFile = os.path.join(pkgPath, 'urdf', 'maze_bot.urdf')
     world_file = os.path.join(pkgPath,"worlds","maze_2.world")
-
+ 
     mesh_pkg_share_dir = os.pathsep + os.path.join(get_package_prefix('maze_bot'), 'share')
 
     if 'GAZEBO_MODEL_PATH' in os.environ:
