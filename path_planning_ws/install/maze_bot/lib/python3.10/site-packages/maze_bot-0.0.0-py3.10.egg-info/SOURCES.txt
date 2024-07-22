@@ -9,6 +9,7 @@ setup.py
 ../../build/maze_bot/maze_bot.egg-info/top_level.txt
 ../../build/maze_bot/maze_bot.egg-info/zip-safe
 launch/gazebo.launch.py
+launch/mazebot_camera_maze.launch.py
 launch/rviz.launch.py
 launch/xml_gazebo.launch.xml
 maze_bot/__init__.py

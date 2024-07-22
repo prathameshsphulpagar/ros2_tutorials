@@ -6,6 +6,7 @@
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/lib/python3.10/site-packages/maze_bot/__pycache__/driving_node.cpython-310.pyc
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/ament_index/resource_index/packages/maze_bot
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/package.xml
+/home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch/mazebot_camera_maze.launch.py
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch/rviz.launch.py
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch/xml_gazebo.launch.xml
 /home/abcom/Documents/GitHub/ros2_tutorials/path_planning_ws/install/maze_bot/share/maze_bot/launch/gazebo.launch.py
